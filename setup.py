@@ -15,7 +15,7 @@ setup(
                         'Werkzeug==0.14.1', 'aniso8601==3.0.2',
                         'asn1crypto==0.24.0', 'certifi==2018.10.15',
                         'cffi==1.11.5', 'chardet==3.0.4', 'idna==2.7',
-                        'cryptography==2.3.1', 'itsdangerous==0.24', 
+                        'cryptography==3.2', 'itsdangerous==0.24', 
                         'pyOpenSSL==18.0.0', 'pycparser==2.19', 
                         'pytz==2018.5', 'requests==2.19.1', 'six==1.11.0',
                         'urllib3==1.23', 'wsgiref==0.1.2',],
