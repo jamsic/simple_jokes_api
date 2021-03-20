@@ -10,7 +10,7 @@ setup(
       description = 'API for jokes',
       install_requires=['Click==7.0', 'Flask==1.0.2',
                         'Flask-HTTPAuth==3.2.4', 'Flask-RESTful==0.3.6',
-                        'Flask-SQLAlchemy==2.3.2', 'Jinja2==2.10',
+                        'Flask-SQLAlchemy==2.3.2', 'Jinja2==2.11.3',
                         'MarkupSafe==1.0', 'SQLAlchemy==1.2.12',
                         'Werkzeug==0.14.1', 'aniso8601==3.0.2',
                         'asn1crypto==0.24.0', 'certifi==2018.10.15',
