@@ -18,7 +18,7 @@ setup(
                         'cryptography==2.3.1', 'itsdangerous==0.24', 
                         'pyOpenSSL==18.0.0', 'pycparser==2.19', 
                         'pytz==2018.5', 'requests==2.19.1', 'six==1.11.0',
-                        'urllib3==1.23', 'wsgiref==0.1.2',],
+                        'urllib3==1.26.5', 'wsgiref==0.1.2',],
       classifiers=[
           'Programming Language :: Python :: 2.7',
           'Intended Audience :: Science/Research',
